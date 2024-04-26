@@ -12,3 +12,5 @@ comments into following  categories.
  • THREAT
  
  • INSULT OR IDENTITY HATE
+
+ Utilizing one-vs-rest classification on diverse classification algorithms like Naive Bayes, Random Forest, LSTM, etc to attain the highest accuracy to categorize comments by toxicity level across multiple categories. 
